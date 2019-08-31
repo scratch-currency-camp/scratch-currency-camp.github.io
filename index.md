@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome to the official Scratch Currency Camp website!
+
 # About
 
 Our mission is to help inexperienced users, make a new currency that will grow. We are looking at a future where everyone is experienced about currencies.
